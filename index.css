@@ -1,0 +1,85 @@
+/* index.css */
+.header {
+  text-align: center;
+  margin: 20px;
+  color: #333;
+}
+
+h1 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+input[type="text"] {
+  padding: 10px;
+  width: 200px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin-right: 10px;
+}
+
+.add-button {
+  padding: 10px 15px;
+  font-size: 16px;
+  color: #fff;
+  background-color: #28a745;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.add-button:hover {
+  background-color: #218838;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 20px auto;
+  max-width: 300px;
+}
+
+li {
+  display: flex;
+  align-items: center;
+  /* justify-content: space-between; */
+  justify-content: flex-end;
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 5px;
+}
+
+li button {
+  padding: 5px 10px;
+  font-size: 14px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 10px; /* Adjust margin between buttons */
+}
+
+.edit-button {
+  background-color: #ffc107;
+  color: #000;
+  height: fit-content;
+  width: auto;
+
+}
+
+.delete-button {
+  background-color: red;
+  color: black; /* Changed text color for better contrast */
+}
+
+.txt{
+  width: 150px;
+  overflow-wrap: anywhere;
+  text-align: left;
+}
+
+.container-1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
