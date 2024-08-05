@@ -33,9 +33,9 @@ Click the "Delete" button next to the task you want to delete.
 (after deleting Go shoping)
 ![Screenshot (90)](https://github.com/user-attachments/assets/c250f166-afd8-4fa9-ab61-e5915a6a37a4)
 
-Installation
+# Installation
 
-#Clone the repository:
+# Clone the repository:
 bash
     
 git clone https://github.com/your-username/todo-list-app.git
