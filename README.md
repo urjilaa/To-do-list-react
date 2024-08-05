@@ -1,7 +1,7 @@
 To-Do List Application
 This is a simple To-Do List application built with React. The application allows users to add, edit, and delete tasks.
 
-Features
+# Features
 
 Add Tasks: Users can add new tasks to the list.
 Edit Tasks: Users can edit existing tasks.
@@ -37,16 +37,16 @@ Installation
 
 #Clone the repository:
 bash
-Copy code
+    
 git clone https://github.com/your-username/todo-list-app.git
 cd todo-list-app
 # Install the dependencies:
 bash
-Copy code
+   
 npm install
 # Run the application:
 bash
-Copy code
+   
 npm start
 
 The application will start in development mode and can be accessed at http://localhost:3000.
